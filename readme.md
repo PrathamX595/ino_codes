@@ -26,7 +26,7 @@ Advanced projects involving shift registers, robotic arms, security systems, and
 Each project folder contains an Arduino sketch with component-specific code for sensors, displays, and actuators.
 
 Common libraries used:
-- `Servo.h`, `LiquidCrystal.h`, `Keypad.h`, `SimpleDHT.h`, ...etc
+- `Servo.h`, `LiquidCrystal.h`, `Keypad.h`, `SimpleDHT.h`, ...etc.
 
 ## Hardware Requirements
 
